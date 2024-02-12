@@ -12,7 +12,7 @@ Desenvolvido por:
 * [1. Resumo do projeto](#1-resumo-do-projeto)
 * [2. Objetivos de Aprendizagem](#2-objetivos-de-aprendizagem)
 * [3. Diagrama](#3-diagrama)
-* [4. Tecnologias Utilizadas](#3-tecnologias-utilizadas)
+* [4. Tecnologias Utilizadas](#4-tecnologias-utilizadas)
 
 ***
 
